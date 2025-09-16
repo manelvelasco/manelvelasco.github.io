@@ -1,5 +1,5 @@
 title: "Mi microblog bilingüe"
-remote_theme: claudivan/jekyll-theme-tufte
+remote_theme: danjenson/et
 plugins:
   - jekyll-feed
   - jekyll-sitemap
