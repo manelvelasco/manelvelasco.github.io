@@ -1,0 +1,7 @@
+title: "Mi microblog bilingüe"
+remote_theme: claudivan/jekyll-theme-tufte
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-remote-theme
+markdown: kramdown
