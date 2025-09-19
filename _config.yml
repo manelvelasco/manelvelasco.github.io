@@ -3,6 +3,7 @@ description: "Demo mínima con posts"
 markdown: kramdown
 timezone: Europe/Madrid
 future: true
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
