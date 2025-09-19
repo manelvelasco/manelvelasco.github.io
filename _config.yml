@@ -1,4 +1,4 @@
-title: "Jekyll mínimo (funciona)"
+title: "Mi blog con Tufte"
 description: "Demo mínima con posts"
 markdown: kramdown
 timezone: Europe/Madrid
@@ -7,3 +7,6 @@ future: true
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-remote-theme   # <- necesario
+
+remote_theme: clayh53/tufte-jekyll
