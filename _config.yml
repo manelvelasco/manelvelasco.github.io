@@ -1,7 +1,9 @@
-title: "Mi microblog bilingüe"
-remote_theme: claudivan/jekyll-theme-tufte
+title: "Jekyll mínimo (funciona)"
+description: "Demo mínima con posts"
+markdown: kramdown
+timezone: Europe/Madrid
+future: true
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme
-markdown: kramdown

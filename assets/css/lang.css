@@ -1,5 +1,4 @@
 .lang-switch { margin: 1rem 0; }
-.lang-switch button { margin-right: .5rem; cursor:pointer; }
-.post-lang { display: none; }
-.post-lang.active { display: block; }
-.lang-switch button.active { font-weight: bold; text-decoration: underline; }
+.lang-switch button { margin-right:.5rem; cursor:pointer; }
+.post-lang { display:none; }
+.post-lang.active { display:block; }
