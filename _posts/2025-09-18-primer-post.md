@@ -3,7 +3,6 @@ layout: default
 title: "Primer post bilingüe (prueba)"
 ---
 
-{% include lang-switch.html %}
 
 <div class="post-lang" data-lang="es" markdown="1">
 
